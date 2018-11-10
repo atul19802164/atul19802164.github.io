@@ -1,0 +1,39 @@
+.top{
+	background:#640F12;
+	margin-top:50px;
+}
+.nit{
+	
+}
+.nb{
+
+}
+.navbar-default{
+		background:#02263C;
+	}
+.mymenu .navbar-nav .active a
+{
+		color:red;
+			background:#02263C;
+	}
+	.mymenu .navbar-nav  li:{
+color:#fff;
+	}
+	.mymenu .navbar-nav  li a:hover{
+	
+		color:red;
+	}
+	.intro{
+		padding:15px;
+	}
+	.foot{
+		background:#333333;
+padding:10px;
+	}
+	.det{
+		font-size:50px;
+		color:white;
+		margin-right:10px;
+	}
+	.top1{
+	}
